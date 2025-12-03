@@ -1,0 +1,16 @@
+:root {
+    --btn-bg: #007bff;
+    --btn-color: #ffffff;
+    --btn-radius: 4px;
+    --btn-border-style: solid;
+    --btn-border-width: 1px;
+    --btn-border-color: #007bff;
+
+    --btn-hover-bg: #0056b3;
+    --btn-hover-color: #ffffff;
+    --btn-hover-border-color: #0056b3;
+
+    --nav-bg: #0000;
+    --nav-color: #ffffff;
+    --nav-align: center;
+}
