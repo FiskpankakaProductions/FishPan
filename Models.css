@@ -16,9 +16,10 @@
 
 .nav {
     background-color: var(--nav-bg);
+    text-align: var(--nav-align);
 }
 
 .nav a {
     color: var(--nav-color);
-    text-align: var(--nav-align);
 }
+
