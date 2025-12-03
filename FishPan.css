@@ -2,3 +2,7 @@
 @import url("Margin.css");
 @import url("Models.css");
 
+.btn {
+    --btn-bg: green;
+}
+
