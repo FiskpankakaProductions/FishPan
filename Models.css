@@ -23,3 +23,7 @@
     color: var(--nav-color);
 }
 
+.nav a:hover {
+    color: var(--nav-color-hover);
+}
+
