@@ -31,4 +31,5 @@
 .body {
     background-color: var(--bg);
     font-family: var(--font);
+    margin: var(--body-margin);
 }
