@@ -28,3 +28,7 @@
     color: var(--nav-color-hover);
 }
 
+.body {
+    background-color: var(--bg);
+    font-family: var(--font);
+}
