@@ -28,8 +28,19 @@
     color: var(--nav-color-hover);
 }
 
+.disabledLink {
+    pointer-events: none;
+    cursor: default;
+    color: gray;
+}
+
 .body {
     background-color: var(--bg);
     font-family: var(--font);
     margin: var(--body-margin);
+}
+
+.logo {
+    width: var(--logo-width);
+    height: auto;
 }
