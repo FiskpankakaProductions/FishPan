@@ -1,18 +1,17 @@
 :root {
     --btn-bg: #007bff;
-    --btn-color: #ffffff;
-    --btn-radius: 4px;
-    --btn-border-style: solid;
-    --btn-border-width: 1px;
-    --btn-border-color: #007bff;
+    --btn-bg-hover: #0056b3;
 
-    --btn-hover-bg: #0056b3;
-    --btn-hover-color: #ffffff;
-    --btn-hover-border-color: #0056b3;
+    --btn-border: 1px solid #007bff;
+    --btn-border-hover: 1px solid #0056b3;
+    --btn-radius: 4px;
+    
+    --btn-fg: #ffffff;
+    --btn-fg-hover: #b8b6b6;
 
     --nav-bg: #000000;
-    --nav-color: #ffffff;
-    --nav-color-hover: #b8b6b6;
+    --nav-fg: #ffffff;
+    --nav-fg-hover: #b8b6b6;
     --nav-align: center;
     --nav-text-decoration: none;
 

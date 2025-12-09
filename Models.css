@@ -1,17 +1,14 @@
 .btn {
-
     background-color: var(--btn-bg);
     color: var(--btn-fg);
+    border: var(--btn-border);
     border-radius: var(--btn-radius);
-    border-style: var(--btn-border-style);
-    border-width: var(--btn-border-width);
-    border-color: var(--btn-border-color);
 }
 
 .btn:hover {
-    background-color: var(--btn-hover-bg);
-    color: var(--btn-hover-color);
-    border-color: var(--btn-hover-border-color);
+    background-color: var(--btn-bg-hover);
+    color: var(--btn-fg-hover);
+    border: var(--btn-border-hover);
 }
 
 .nav {
@@ -20,12 +17,12 @@
 }
 
 .nav a {
-    color: var(--nav-color);
+    color: var(--nav-fg);
     text-decoration: var(--nav-text-decoration);
 }
 
 .nav a:hover {
-    color: var(--nav-color-hover);
+    color: var(--nav-fg-hover);
 }
 
 .disabledLink {
@@ -34,13 +31,13 @@
     color: gray;
 }
 
-.body {
-    background-color: var(--bg);
-    font-family: var(--font);
-    margin: var(--body-margin);
-}
-
 .logo {
     width: var(--logo-width);
     height: auto;
+}
+
+body {
+    background-color: var(--bg);
+    font-family: var(--font);
+    margin: var(--body-margin);
 }
