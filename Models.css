@@ -28,7 +28,7 @@
 .disabledLink {
     pointer-events: none;
     cursor: default;
-    color: gray;
+    --nav-fg: gray;
 }
 
 .logo {
