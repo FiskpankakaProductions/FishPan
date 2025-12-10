@@ -18,12 +18,12 @@
 }
 
 .nav a {
-    color: var(--nav-fg);
-    text-decoration: var(--nav-text-decoration);
+    color: var(--btn-fg);
+    text-decoration: var(--btn-hover);
 }
 
 .nav a:hover {
-    color: var(--nav-fg-hover);
+    color: var(--btn-hover);
 }
 
 .disabledLink {
