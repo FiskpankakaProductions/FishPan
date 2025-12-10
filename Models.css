@@ -12,6 +12,7 @@
 }
 
 .nav {
+    --nav-align: center;
     background-color: var(--nav-bg);
     text-align: var(--nav-align);
 }
