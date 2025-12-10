@@ -41,3 +41,8 @@ body {
     font-family: var(--font);
     margin: var(--body-margin);
 }
+
+.main {
+    width: 100%;
+    margin: auto;
+}
